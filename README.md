@@ -51,7 +51,7 @@ real-time cv · yolo · firebase telemetry
 </td>
 <td width="50%" valign="top">
 
-#### stack
+#### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,java,postgres,mongodb,mysql&perline=7&theme=dark" width="300" alt="languages & databases"/>
