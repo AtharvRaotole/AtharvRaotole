@@ -1,97 +1,79 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-light.svg">
-  <img alt="Atharv Raotole" src="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-dark.svg" width="100%">
-</picture>
+<div align="center">
 
-<p align="center">
-  <sub>MS AMS + CS · Stony Brook University · 3.9 GPA · New York</sub>
-</p>
+# Atharv Raotole
 
-<p align="center">
-  <a href="https://personal-portfolio-p-kappa.vercel.app/"><img src="https://img.shields.io/badge/portfolio-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" height="22" alt="portfolio"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/atharvraotole/"><img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9" height="22" alt="linkedin"/></a>
-  &nbsp;
-  <a href="mailto:atharv.raotole@stonybrook.edu"><img src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" height="22" alt="email"/></a>
-</p>
+<sub>ai engineer · voice & llm systems · distributed backends</sub>  
+<sub>MS AMS + CS · Stony Brook University · 3.9 GPA · New York</sub>
+
+<br>
+
+<a href="https://personal-portfolio-p-kappa.vercel.app/from-github"><img src="https://img.shields.io/badge/portfolio-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" height="22" alt="portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/atharvraotole/"><img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9" height="22" alt="linkedin"/></a>
+&nbsp;
+<a href="mailto:atharv.raotole@stonybrook.edu"><img src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" height="22" alt="email"/></a>
+
+</div>
 
 <br>
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 #### now
 
-> **Pearl Social** · founding engineer  
-> end-to-end architecture & mobile — react native, expo
+<span style="color:#3fb950"><b>Pearl Social</b> · founding engineer</span>  
+<span style="color:#8b949e">end-to-end architecture & mobile · react native, expo</span>
 
 <br>
 
 #### experience
 
-**Answering Legal** · ai engineer  
-rasa voice intake · llm call flows · telephony integrations
+<span style="color:#f85149"><b>Answering Legal</b> · ai engineer</span>  
+<span style="color:#8b949e">rasa voice intake · llm call flows · telephony integrations</span>
 
 <br>
 
-**Meltek** · software engineer, ai/ml  
-energy disaggregation · django/celery · nilm models
+<span style="color:#f85149"><b>Meltek</b> · software engineer, ai/ml</span>  
+<span style="color:#8b949e">energy disaggregation · django/celery · nilm models</span>
 
 <br>
 
-**Krevera** · machine learning engineer  
-surrogate modeling · inference apis · process optimization
+<span style="color:#f85149"><b>Krevera</b> · machine learning engineer</span>  
+<span style="color:#8b949e">surrogate modeling · inference apis · process optimization</span>
 
 <br>
 
-**AutoBuddys** · software engineer  
-real-time cv · yolo · firebase telemetry
+<span style="color:#f85149"><b>AutoBuddys</b> · software engineer</span>  
+<span style="color:#8b949e">real-time cv · yolo · firebase telemetry</span>
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
 #### stack
 
-`python` `typescript` `rust` `c++` `java` `sql`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,java,postgres,mongodb,mysql&perline=7&theme=dark" alt="languages & databases"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,redis,kafka,pytorch,tensorflow&perline=7&theme=dark" alt="backend & ml"/>
+</p>
 
-`fastapi` `django` `node` `celery` `redis` `kafka` `spark`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,gcp,git&perline=7&theme=dark" alt="frontend & infra"/>
+</p>
 
-<br>
-
-`postgres` `mongodb` `mysql`
-
-<br>
-
-`pytorch` `lightgbm` `catboost` `openai` `rasa`
-
-<br>
-
-`react` `next.js` `react native` `expo`
-
-<br>
-
-`docker` `kubernetes` `aws` `gcp` `jenkins`
-
-<br><br>
-
-#### selected work
-
-[**Passage**](https://github.com/AtharvRaotole/Passage)  
-distributed ai recovery · celery/redis · gpt-4o agents
-
-<br>
-
-[**WellBe**](https://github.com/AtharvRaotole/WellBe-Elderly-Monitoring-System-and-Well-Being-System)  
-fall detection · emotion monitoring · elderly care
-
-<br>
-
-[**LLM Learning Disability**](https://github.com/AtharvRaotole/LLM-Powered-Learning-Disability) · [live](https://clownfish-app-srrai.ondigitalocean.app/)  
-adaptive diagnostics · fastapi · hallucination detection
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/LightGBM-00529B?style=flat-square&logo=lightgbm&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" height="22"/>
+</p>
 
 </td>
 </tr>
@@ -99,6 +81,12 @@ adaptive diagnostics · fastapi · hallucination detection
 
 <br>
 
-<p align="center">
-  <sub><i>building something cool — hmu if you want to chat.</i></sub>
-</p>
+<div align="center">
+
+<sub><i>building something cool, hmu if you want to chat.</i></sub>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AtharvRaotole&base=221&color=3b82f6&style=flat-square&label=profile+views)
+
+</div>
