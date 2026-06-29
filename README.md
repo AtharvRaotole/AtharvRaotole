@@ -23,30 +23,30 @@
 
 #### now
 
-<span style="color:#3fb950"><b>Pearl Social</b> · founding engineer</span>  
-<span style="color:#8b949e">end-to-end architecture & mobile · react native, expo</span>
+> **Pearl Social** · founding engineer  
+> end-to-end architecture & mobile · react native, expo
 
 <br>
 
 #### experience
 
-<span style="color:#f85149"><b>Answering Legal</b> · ai engineer</span>  
-<span style="color:#8b949e">rasa voice intake · llm call flows · telephony integrations</span>
+**Answering Legal** · ai engineer  
+rasa voice intake · llm call flows · telephony integrations
 
 <br>
 
-<span style="color:#f85149"><b>Meltek</b> · software engineer, ai/ml</span>  
-<span style="color:#8b949e">energy disaggregation · django/celery · nilm models</span>
+**Meltek** · software engineer, ai/ml  
+energy disaggregation · django/celery · nilm models
 
 <br>
 
-<span style="color:#f85149"><b>Krevera</b> · machine learning engineer</span>  
-<span style="color:#8b949e">surrogate modeling · inference apis · process optimization</span>
+**Krevera** · machine learning engineer  
+surrogate modeling · inference apis · process optimization
 
 <br>
 
-<span style="color:#f85149"><b>AutoBuddys</b> · software engineer</span>  
-<span style="color:#8b949e">real-time cv · yolo · firebase telemetry</span>
+**AutoBuddys** · software engineer  
+real-time cv · yolo · firebase telemetry
 
 </td>
 <td width="50%" valign="top">
@@ -54,25 +54,25 @@
 #### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,java,postgres,mongodb,mysql&perline=7&theme=dark" alt="languages & databases"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,java,postgres,mongodb,mysql&perline=7&theme=dark" width="300" alt="languages & databases"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,redis,kafka,pytorch,tensorflow&perline=7&theme=dark" alt="backend & ml"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,redis,kafka,pytorch,tensorflow&perline=7&theme=dark" width="300" alt="backend & ml"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,gcp,git&perline=7&theme=dark" alt="frontend & infra"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,gcp,git&perline=7&theme=dark" width="300" alt="frontend & infra"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="22"/>
-  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/LightGBM-00529B?style=flat-square" height="22"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="18"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/LightGBM-00529B?style=flat-square" height="18"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" height="18"/>
 </p>
 
 </td>
