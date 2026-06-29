@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/LightGBM-00529B?style=flat-square&logo=lightgbm&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/LightGBM-00529B?style=flat-square" height="22"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" height="22"/>
 </p>
