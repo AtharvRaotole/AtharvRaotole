@@ -21,14 +21,14 @@
 <tr>
 <td width="50%" valign="top">
 
-#### now
+#### Now
 
 > **Pearl Social** · founding engineer  
 > end-to-end architecture & mobile · react native, expo
 
 <br>
 
-#### experience
+#### Experience
 
 **Answering Legal** · ai engineer  
 rasa voice intake · llm call flows · telephony integrations
