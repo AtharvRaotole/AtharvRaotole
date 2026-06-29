@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-light.svg">
-  <img alt="Atharv Raotole" src="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-light.svg">
+  <img alt="Atharv Raotole" src="https://cdn.jsdelivr.net/gh/AtharvRaotole/AtharvRaotole@main/assets/header-dark.svg" width="100%">
 </picture>
 
 <p align="center">
