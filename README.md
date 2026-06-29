@@ -87,6 +87,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvRaotole&base=221&color=3b82f6&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=AtharvRaotole&color=3b82f6&style=flat-square&label=profile+views)
 
 </div>
