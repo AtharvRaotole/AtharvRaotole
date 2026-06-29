@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="148" viewBox="0 0 920 148" fill="none">
+  <defs>
+    <linearGradient id="line" x1="360" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21262d"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#21262d"/>
+    </linearGradient>
+  </defs>
+  <text x="460" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#f0f6fc">Atharv Raotole</text>
+  <text x="460" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8b949e" letter-spacing="5.5">AI ENGINEER</text>
+  <line x1="360" y1="102" x2="560" y2="102" stroke="url(#line)" stroke-width="1"/>
+  <text x="460" y="128" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6e7681">voice · llm systems · distributed backends</text>
+</svg>

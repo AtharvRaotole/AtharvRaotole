@@ -1,44 +1,104 @@
-### Atharv Raotole
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-light.svg">
+  <img alt="Atharv Raotole" src="https://raw.githubusercontent.com/AtharvRaotole/AtharvRaotole/main/assets/header-dark.svg" width="100%">
+</picture>
 
-<sub>ai engineer · voice & llm systems · distributed backends</sub>  
-<sub>MS AMS + CS · Stony Brook University · 3.9 GPA · New York</sub>
+<p align="center">
+  <sub>MS AMS + CS · Stony Brook University · 3.9 GPA · New York</sub>
+</p>
 
-[portfolio](https://personal-portfolio-p-kappa.vercel.app/) · [linkedin](https://www.linkedin.com/in/atharvraotole/) · [email](mailto:atharv.raotole@stonybrook.edu)
+<p align="center">
+  <a href="https://personal-portfolio-p-kappa.vercel.app/"><img src="https://img.shields.io/badge/portfolio-161b22?style=flat-square&logo=vercel&logoColor=c9d1d9" height="22" alt="portfolio"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/atharvraotole/"><img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9" height="22" alt="linkedin"/></a>
+  &nbsp;
+  <a href="mailto:atharv.raotole@stonybrook.edu"><img src="https://img.shields.io/badge/email-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" height="22" alt="email"/></a>
+</p>
 
-**Pearl Social** — Founding Engineer  
-End-to-end system architecture and mobile app development with React Native / Expo.
+<br>
 
-**Answering Legal** — AI Engineer  
-Rasa voice intake, LLM call flows, calendar scheduling, Go telephony integrations.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-**Meltek** — Software Engineer, AI/ML  
-Energy disaggregation at scale, Django/Celery pipelines, NILM with sequence-to-point models.
+#### now
 
-**Krevera** — Machine Learning Engineer  
-Surrogate modeling, diffusion/LSTM pipelines, REST inference APIs.
+> **Pearl Social** · founding engineer  
+> end-to-end architecture & mobile — react native, expo
 
-**AutoBuddys** — Software Engineer  
-Real-time gaze detection with YOLO, Firebase telemetry optimization.
+<br>
 
-**languages**  
-Python · TypeScript · Rust · C++ · Java · SQL
+#### experience
 
-**backend & data**  
-FastAPI · Django · Node.js · Celery · Redis · Kafka · Spark · PostgreSQL · MongoDB · MySQL
+**Answering Legal** · ai engineer  
+rasa voice intake · llm call flows · telephony integrations
 
-**ml & ai**  
-PyTorch · LightGBM · CatBoost · OpenAI · Rasa · Playwright
+<br>
 
-**frontend & infra**  
-React · Next.js · React Native · Expo · Docker · Kubernetes · AWS · GCP · Jenkins
+**Meltek** · software engineer, ai/ml  
+energy disaggregation · django/celery · nilm models
 
-**Passage** — [repo](https://github.com/AtharvRaotole/Passage)  
-Distributed task processing with Celery/Redis, GPT-4o automation agents, WebSockets.
+<br>
 
-**WellBe** — [repo](https://github.com/AtharvRaotole/WellBe-Elderly-Monitoring-System-and-Well-Being-System)  
-Real-time fall detection and emotion monitoring for elderly care.
+**Krevera** · machine learning engineer  
+surrogate modeling · inference apis · process optimization
 
-**LLM Learning Disability Diagnosis** — [repo](https://github.com/AtharvRaotole/LLM-Powered-Learning-Disability) · [live](https://clownfish-app-srrai.ondigitalocean.app/)  
-Adaptive diagnostics with FastAPI + React, prompt tuning, hallucination detection.
+<br>
 
-<sub>building something cool — hmu if you want to chat.</sub>
+**AutoBuddys** · software engineer  
+real-time cv · yolo · firebase telemetry
+
+</td>
+<td width="48%" valign="top">
+
+#### stack
+
+`python` `typescript` `rust` `c++` `java` `sql`
+
+<br>
+
+`fastapi` `django` `node` `celery` `redis` `kafka` `spark`
+
+<br>
+
+`postgres` `mongodb` `mysql`
+
+<br>
+
+`pytorch` `lightgbm` `catboost` `openai` `rasa`
+
+<br>
+
+`react` `next.js` `react native` `expo`
+
+<br>
+
+`docker` `kubernetes` `aws` `gcp` `jenkins`
+
+<br><br>
+
+#### selected work
+
+[**Passage**](https://github.com/AtharvRaotole/Passage)  
+distributed ai recovery · celery/redis · gpt-4o agents
+
+<br>
+
+[**WellBe**](https://github.com/AtharvRaotole/WellBe-Elderly-Monitoring-System-and-Well-Being-System)  
+fall detection · emotion monitoring · elderly care
+
+<br>
+
+[**LLM Learning Disability**](https://github.com/AtharvRaotole/LLM-Powered-Learning-Disability) · [live](https://clownfish-app-srrai.ondigitalocean.app/)  
+adaptive diagnostics · fastapi · hallucination detection
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub><i>building something cool — hmu if you want to chat.</i></sub>
+</p>
