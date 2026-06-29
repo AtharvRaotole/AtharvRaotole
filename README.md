@@ -87,6 +87,6 @@ real-time cv · yolo · firebase telemetry
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvRaotole&color=3b82f6&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=AtharvRaotole-profile&base=220&color=3b82f6&style=flat-square&label=profile+views)
 
 </div>
