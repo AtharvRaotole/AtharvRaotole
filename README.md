@@ -16,7 +16,7 @@
 
 I build AI systems that have to work outside a notebook.
 
-That usually means voice agents on real call flows, LLM pipelines with guardrails, and graph-backed tools for messy production data. Lately: supply-chain blast radius on FalkorDB, privacy-aware planning agents on Cloudflare, and LangGraph products used by educators.
+That usually means voice agents on real call flows, LLM pipelines with guardrails, and graph-backed tools for messy production data. Lately: supply-chain blast radius with graph databases (Neo4j, FalkorDB), privacy-aware planning agents on Cloudflare, and LangGraph products used by educators.
 
 Based in New York. MS in Applied Math & Statistics and Computer Science at Stony Brook (3.9 GPA).
 
