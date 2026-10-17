@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="72%" />
-</p>
-
-<p align="center">
   <a href="https://personal-portfolio-p-kappa.vercel.app/from-github">portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/atharvraotole/">linkedin</a>
