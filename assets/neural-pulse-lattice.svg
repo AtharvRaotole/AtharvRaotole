@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Atharv Raotole — Neural Pulse Lattice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Atharv Raotole - Neural Pulse Lattice">
   <defs>
     <!-- Edge paths (animateMotion targets) -->
     <path id="np-e1"  d="M 120 80  L 240 140"/>
@@ -71,7 +71,7 @@
     <use href="#np-e11"/><use href="#np-e12"/><use href="#np-e13"/><use href="#np-e14"/><use href="#np-e15"/>
   </g>
 
-  <!-- Nodes — halo + core -->
+  <!-- Nodes - halo + core -->
   <g>
     <!-- n1 -->
     <circle cx="120" cy="80" r="14" fill="url(#np-halo)"><animate attributeName="r" values="14;22;14" dur="3.4s" repeatCount="indefinite"/></circle>
@@ -162,7 +162,7 @@
       <text x="0" y="0">focus</text>     <text x="160" y="0" fill="#f5f5f0">agents</text>
       <text x="0" y="20">surface</text>    <text x="160" y="20" fill="#f5f5f0">voice</text>
       <text x="0" y="40">graph</text>      <text x="160" y="40" fill="#f5f5f0">falkor</text>
-      <text x="0" y="60">now</text>        <text x="160" y="60" fill="#f5f5f0">ship</text>
+      <text x="0" y="60">mode</text>        <text x="160" y="60" fill="#f5f5f0">ship</text>
       <text x="0" y="80">base</text>       <text x="160" y="80" fill="#f5f5f0">nyc</text>
     </g>
 
