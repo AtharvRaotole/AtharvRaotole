@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="signal strip">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4fbcff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#a78bfa" stop-opacity="1"/>
-      <stop offset="1" stop-color="#4fbcff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a07c1f" stop-opacity="1"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4fbcff"/>
-      <stop offset="0.5" stop-color="#fef3c7"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+      <stop offset="0" stop-color="#d4af37"/>
+      <stop offset="0.5" stop-color="#f5f5f0"/>
+      <stop offset="1" stop-color="#a07c1f"/>
       <animate attributeName="x1" values="0;1;0" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="1;2;1" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="80" fill="#03050f"/>
+  <rect width="1200" height="80" fill="#0c0c0e"/>
   <line x1="40" y1="40" x2="1160" y2="40" stroke="url(#g)" stroke-width="1" opacity="0.35"/>
   <!-- voice waveform -->
   <path fill="none" stroke="url(#wave)" stroke-width="2" stroke-linecap="round"
@@ -25,11 +25,11 @@
         M40,40 C80,20 100,60 140,40 S200,10 240,40 S300,70 340,40 S400,15 440,40 S500,65 540,40 S600,20 640,40 S700,60 740,40 S800,18 840,40 S900,62 940,40 S1000,22 1040,40 S1100,55 1160,40"
       dur="4s" repeatCount="indefinite"/>
   </path>
-  <circle cx="40" cy="40" r="3" fill="#4fbcff">
+  <circle cx="40" cy="40" r="3" fill="#d4af37">
     <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1160" cy="40" r="3" fill="#a78bfa">
+  <circle cx="1160" cy="40" r="3" fill="#a07c1f">
     <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="600" y="72" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="6" fill="#a5b4cf">VOICE SIGNAL · LIVE CHANNEL</text>
+  <text x="600" y="72" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="6" fill="#a3a3a3">SIGNAL</text>
 </svg>
