@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Atharv Raotole" width="100%" />
+  <img src="./assets/lattice.svg" alt="Atharv Raotole" width="100%" />
 </p>
 
 <p align="center">
